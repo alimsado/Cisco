@@ -1,2 +1,2 @@
-# Cisco-
+# Cisco
 Cisco Configurations
